@@ -1,0 +1,42 @@
+[
+  {
+    "position": 1,
+    "name": "Amazon Echo Show 8 (3rd Gen) – Smart Display with Alexa",
+    "slug": "amazon-echo-show-8-3rd-gen",
+    "description": "A voice-activated smart display that assists seniors with daily tasks, entertainment, and emergency calls.",
+    "image": "https://epicairise.github.io/amazon-echo-show-8-3rd-gen/media/echo-show-8.jpg",
+    "data-link": "pending"
+  },
+  {
+    "position": 2,
+    "name": "GrandPad – Senior-Friendly Tablet with 4G LTE",
+    "slug": "grandpad-senior-tablet-4g-lte",
+    "description": "A simplified tablet designed for seniors to communicate, browse, and enjoy entertainment without technical hassles.",
+    "image": "https://epicairise.github.io/grandpad-senior-tablet-4g-lte/media/grandpad-tablet.jpg",
+    "data-link": "pending"
+  },
+  {
+    "position": 3,
+    "name": "ElliQ – AI Companion Robot for Seniors",
+    "slug": "elliq-ai-companion-robot",
+    "description": "An interactive robot that offers companionship, health reminders, and emergency assistance for seniors living alone.",
+    "image": "https://epicairise.github.io/elliq-ai-companion-robot/media/elliq-companion-robot.jpg",
+    "data-link": "pending"
+  },
+  {
+    "position": 4,
+    "name": "MedMinder Maya – Automatic Pill Dispenser with Remote Monitoring",
+    "slug": "medminder-maya-pill-dispenser",
+    "description": "A secure pill dispenser that ensures timely medication intake and alerts caregivers if doses are missed.",
+    "image": "https://epicairise.github.io/medminder-maya-pill-dispenser/media/medminder-maya.jpg",
+    "data-link": "pending"
+  },
+  {
+    "position": 5,
+    "name": "Ring Video Doorbell Pro 2 – Smart Doorbell with Enhanced Security Features",
+    "slug": "ring-video-doorbell-pro-2",
+    "description": "A high-definition video doorbell that allows seniors to see and communicate with visitors without opening the door.",
+    "image": "https://epicairise.github.io/ring-video-doorbell-pro-2/media/ring-doorbell-pro-2.jpg",
+    "data-link": "pending"
+  }
+]
