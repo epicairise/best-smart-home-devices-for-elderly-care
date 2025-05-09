@@ -1,42 +1,52 @@
 [
   {
     "position": 1,
-    "name": "Amazon Echo Show 8 (3rd Gen) – Smart Display with Alexa",
-    "slug": "amazon-echo-show-8-3rd-gen",
-    "description": "A voice-activated smart display that assists seniors with daily tasks, entertainment, and emergency calls.",
-    "image": "https://epicairise.github.io/amazon-echo-show-8-3rd-gen/media/echo-show-8.jpg",
+    "name": "Amazon Echo Show 8",
+    "slug": "amazon-echo-show-8",
+    "description": "A voice-first smart display that enables video calls, reminders, and hands-free control — perfect for staying connected and safe.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/echo-show-8.jpg",
+    "target_audience_match": "Ideal for families who want to maintain daily contact with elderly parents without overwhelming them with tech.",
+    "price": "From $129",
     "data-link": "pending"
   },
   {
     "position": 2,
-    "name": "GrandPad – Senior-Friendly Tablet with 4G LTE",
-    "slug": "grandpad-senior-tablet-4g-lte",
-    "description": "A simplified tablet designed for seniors to communicate, browse, and enjoy entertainment without technical hassles.",
-    "image": "https://epicairise.github.io/grandpad-senior-tablet-4g-lte/media/grandpad-tablet.jpg",
+    "name": "Wellness by Alarm.com",
+    "slug": "wellness-alarmcom",
+    "description": "A non-intrusive monitoring system that uses motion sensors and AI to detect unusual activity patterns or falls — no cameras required.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/alarmcom-wellness.jpg",
+    "target_audience_match": "Great for caregivers who want 24/7 oversight without compromising privacy or independence.",
+    "price": "Requires professional install",
     "data-link": "pending"
   },
   {
     "position": 3,
-    "name": "ElliQ – AI Companion Robot for Seniors",
-    "slug": "elliq-ai-companion-robot",
-    "description": "An interactive robot that offers companionship, health reminders, and emergency assistance for seniors living alone.",
-    "image": "https://epicairise.github.io/elliq-ai-companion-robot/media/elliq-companion-robot.jpg",
+    "name": "Philips Lifeline with AutoAlert",
+    "slug": "philips-lifeline-autoalert",
+    "description": "A wearable emergency response system with fall detection, connecting seniors to help at the push of a button — even if they can't push.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/philips-lifeline.jpg",
+    "target_audience_match": "Essential for seniors living alone or at risk of falling, giving families peace of mind during daily routines.",
+    "price": "From $29.95/mo",
     "data-link": "pending"
   },
   {
     "position": 4,
-    "name": "MedMinder Maya – Automatic Pill Dispenser with Remote Monitoring",
-    "slug": "medminder-maya-pill-dispenser",
-    "description": "A secure pill dispenser that ensures timely medication intake and alerts caregivers if doses are missed.",
-    "image": "https://epicairise.github.io/medminder-maya-pill-dispenser/media/medminder-maya.jpg",
+    "name": "MedMinder Smart Pill Dispenser",
+    "slug": "medminder-pill-dispenser",
+    "description": "A locked, Wi-Fi-connected medication dispenser that lights up, beeps, and calls if pills aren’t taken — no smartphone needed.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/medminder.jpg",
+    "target_audience_match": "Perfect for managing complex medication routines without relying on tech-savvy behavior.",
+    "price": "From $49.99/mo",
     "data-link": "pending"
   },
   {
     "position": 5,
-    "name": "Ring Video Doorbell Pro 2 – Smart Doorbell with Enhanced Security Features",
-    "slug": "ring-video-doorbell-pro-2",
-    "description": "A high-definition video doorbell that allows seniors to see and communicate with visitors without opening the door.",
-    "image": "https://epicairise.github.io/ring-video-doorbell-pro-2/media/ring-doorbell-pro-2.jpg",
+    "name": "Wyze Cam v3 with Motion Detection",
+    "slug": "wyze-cam-v3",
+    "description": "An affordable indoor/outdoor smart camera with two-way audio and motion alerts — great for remote monitoring without being intrusive.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/wyze-cam-v3.jpg",
+    "target_audience_match": "Affordable choice for adult children who want gentle visual reassurance while respecting independence.",
+    "price": "From $35.98",
     "data-link": "pending"
   }
 ]
